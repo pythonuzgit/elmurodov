@@ -83,7 +83,7 @@ Gaussian mixture models are very useful when it comes to modeling data, especial
 Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
 
 
-*  **House price with Tensorflow and Keras.ipynb**[Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20with%20Tensorflow%20and%20Keras.ipynb)
+*  **House price with Tensorflow and Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20with%20Tensorflow%20and%20Keras.ipynb)
 *  **Linear Regression in Tensorflow with seismic-bumps dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
 *  **Keras Neural Network for Linear Regression with Beauty Data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/commit/3929085d0a8787635b4b2f79eb73a3a27f4b3e98)
 *  **Keras Neural Network for logistic regression with satimage_csv data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Keras%20Neural%20Network%20for%20logistic%20regression%20with%20satimage_csv%20data.ipynb)
@@ -138,7 +138,7 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 
 # See also Natural Language Processing with python
 
-
+* **Natural Language Processing in Python using SpaCy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20in%20Python%20using%20SpaCy.ipynb) 
 * **Text Classification with Football-Scenarios-DFE-832307.csv** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Football-Scenarios-DFE-832307.csv.ipynb)
 * **Text Classification with Natural Language Processing in Python - agreement-sentence-agreement-DFE dataset** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Natural%20Language%20Processing%20in%20Python%20-%20agreement-sentence-agreement-DFE%20dataset.ipynb)
 * **Text Classification with agreement-sentence-agreement-DFE.csv** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20agreement-sentence-agreement-DFE.csv.ipynb)
