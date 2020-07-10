@@ -82,7 +82,7 @@ Gaussian mixture models are very useful when it comes to modeling data, especial
 
 Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
 
-
+*  **House price prediction using regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20prediction%20using%20regression%20.ipynb)
 *  **House price with Tensorflow and Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20with%20Tensorflow%20and%20Keras.ipynb)
 *  **Linear Regression in Tensorflow with seismic-bumps dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
 *  **Keras Neural Network for Linear Regression with Beauty Data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/commit/3929085d0a8787635b4b2f79eb73a3a27f4b3e98)
