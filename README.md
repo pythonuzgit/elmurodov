@@ -92,7 +92,7 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 *  **Neural Network in Keras with phoneme datset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20phoneme%20datset.ipynb)
 
 
-# See also Deep Learning for Natural Language Prosessing (NLP)
+# See also Deep Learning for Natural Language Processing (NLP)
 
 * **Deep learning for NLP** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20learning%20for%20NLP.ipynb)
 * **Deep learning for Natural language processing** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Deep%20learning%20for%20Natural%20language%20processing.ipynb)
