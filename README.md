@@ -95,21 +95,11 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 # See also Deep Learning for Natural Language Prosessing (NLP)
 
 * **Deep learning for NLP** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20learning%20for%20NLP.ipynb)
-
 * **Deep learning for Natural language processing** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Deep%20learning%20for%20Natural%20language%20processing.ipynb)
-
 * **Generating text using a recurrent neural network** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
-
-
 * **Text Generation using LSTM RNN with Keras** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Generation%20using%20LSTM%20RNN%20with%20Keras.ipynb)
-
-
 * **Text generation using Recuurent neural network with 034.txt** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20generation%20using%20Recurrent%20neural%20network%20with%20034.txt.ipynb)
-
-
 * **Logistic regression and Neural Network in Text classification** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Logistic%20regression%20and%20Neural%20Network%20in%20Text%20classification%20.ipynb)
-
-
 * **Text Classification with Deep Neural Network, Logistic regression** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Classification%20with%20Deep%20Neural%20Network%2C%20Logistic%20regression.ipynb)
 
 
@@ -118,16 +108,10 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 # See also Time Series Forecasting with python
 
 * **Alchohol time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Alchohol%20time%20series%20forecasting.ipynb)
-
 *  **Hause time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Hause%20time%20series%20forecasting.ipynb)
-
 *  **Time Series Prediction with LSTM** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20Series%20Prediction%20with%20LSTM%20.ipynb)
-
 *  **Time series Prediction with LSTM RNN in Python with Keras** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20series%20Prediction%20with%20LSTM%20RNN%20in%20Python%20with%20Keras.ipynb)
-
 *  **ARIMA model for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20model%20for%20Time%20Series%20Forecasting.ipynb)
-
-
 *  **ARIMA and LSTM models for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20and%20LSTM%20models%20for%20Time%20Series%20Forecasting.ipynb)
 
 
