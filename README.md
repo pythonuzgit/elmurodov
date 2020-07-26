@@ -94,6 +94,8 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 
 # See also Deep Learning for Natural Language Processing (NLP)
 
+
+* **Netflix_titles using Deep Learning in Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Netflix_titles%20using%20Deep%20Learning%20in%20Keras.ipynb)
 * **Deep learning for NLP** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20learning%20for%20NLP.ipynb)
 * **Deep learning for Natural language processing** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Deep%20learning%20for%20Natural%20language%20processing.ipynb)
 * **Generating text using a recurrent neural network** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
