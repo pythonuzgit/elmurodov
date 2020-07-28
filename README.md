@@ -126,6 +126,8 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 
 # See also Natural Language Processing with python
 
+
+* **Natural language processing using Full-Economic-News-DFE-839861.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20language%20processing%20using%20Full-Economic-News-DFE-839861.csv.ipynb)
 * **Natural Language Procesing with Python** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Procesing%20with%20Python.ipynb) 
 * **Natural Language Processing** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing.ipynb)
 * **Natural Language Processing with SpaCy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20SpaCy.ipynb)
