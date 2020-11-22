@@ -31,6 +31,37 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 * **Text Classification with Deep Neural Network, Logistic regression** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Classification%20with%20Deep%20Neural%20Network%2C%20Logistic%20regression.ipynb)
 
 
+# See also Time Series Forecasting with python
+
+* **Alchohol time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Alchohol%20time%20series%20forecasting.ipynb)
+*  **Hause time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Hause%20time%20series%20forecasting.ipynb)
+*  **Time Series Prediction with LSTM** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20Series%20Prediction%20with%20LSTM%20.ipynb)
+*  **Time series Prediction with LSTM RNN in Python with Keras** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20series%20Prediction%20with%20LSTM%20RNN%20in%20Python%20with%20Keras.ipynb)
+*  **ARIMA model for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20model%20for%20Time%20Series%20Forecasting.ipynb)
+*  **ARIMA and LSTM models for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20and%20LSTM%20models%20for%20Time%20Series%20Forecasting.ipynb)
+
+
+
+
+
+
+
+
+
+# See also Natural Language Processing with python
+
+* **Natural Language Processing using DataAnalyst.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20using%20DataAnalyst.csv.ipynb)
+* **Natural language processing using Full-Economic-News-DFE-839861.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20language%20processing%20using%20Full-Economic-News-DFE-839861.csv.ipynb)
+* **Natural Language Procesing with Python** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Procesing%20with%20Python.ipynb) 
+* **Natural Language Processing** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing.ipynb)
+* **Natural Language Processing with SpaCy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20SpaCy.ipynb)
+* **Natural Language Processing in Python using SpaCy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20in%20Python%20using%20SpaCy.ipynb) 
+* **Text Classification with Football-Scenarios-DFE-832307.csv** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Football-Scenarios-DFE-832307.csv.ipynb)
+* **Text Classification with Natural Language Processing in Python - agreement-sentence-agreement-DFE dataset** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Natural%20Language%20Processing%20in%20Python%20-%20agreement-sentence-agreement-DFE%20dataset.ipynb)
+* **Text Classification with agreement-sentence-agreement-DFE.csv** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20agreement-sentence-agreement-DFE.csv.ipynb)
+
+
+
 
 
  
@@ -114,17 +145,6 @@ Gaussian mixture models are very useful when it comes to modeling data, especial
 
 
 
-# See also Deep Learning for Natural Language Processing (NLP)
-
-
-* **Netflix_titles using Deep Learning in Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Netflix_titles%20using%20Deep%20Learning%20in%20Keras.ipynb)
-* **Deep learning for NLP** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20learning%20for%20NLP.ipynb)
-* **Deep learning for Natural language processing** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Deep%20learning%20for%20Natural%20language%20processing.ipynb)
-* **Generating text using a recurrent neural network** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
-* **Text Generation using LSTM RNN with Keras** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Generation%20using%20LSTM%20RNN%20with%20Keras.ipynb)
-* **Text generation using Recuurent neural network with 034.txt** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20generation%20using%20Recurrent%20neural%20network%20with%20034.txt.ipynb)
-* **Logistic regression and Neural Network in Text classification** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Logistic%20regression%20and%20Neural%20Network%20in%20Text%20classification%20.ipynb)
-* **Text Classification with Deep Neural Network, Logistic regression** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Classification%20with%20Deep%20Neural%20Network%2C%20Logistic%20regression.ipynb)
 
 
 
