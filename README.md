@@ -33,12 +33,12 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 
 # See also Time Series Forecasting with python
 
-* **Alchohol time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Alchohol%20time%20series%20forecasting.ipynb)
-*  **Hause time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Hause%20time%20series%20forecasting.ipynb)
-*  **Time Series Prediction with LSTM** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20Series%20Prediction%20with%20LSTM%20.ipynb)
-*  **Time series Prediction with LSTM RNN in Python with Keras** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20series%20Prediction%20with%20LSTM%20RNN%20in%20Python%20with%20Keras.ipynb)
-*  **ARIMA model for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20model%20for%20Time%20Series%20Forecasting.ipynb)
-*  **ARIMA and LSTM models for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20and%20LSTM%20models%20for%20Time%20Series%20Forecasting.ipynb)
+1. **Time Series Forecasting: Alchohol time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Alchohol%20time%20series%20forecasting.ipynb)
+2.  **Time Series Forecasting: Hause time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Hause%20time%20series%20forecasting.ipynb)
+3.  **Time Series Forecasting: Time Series Prediction with LSTM** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20Series%20Prediction%20with%20LSTM%20.ipynb)
+4.  **Time Series Forecasting: Time series Prediction with LSTM RNN in Python with Keras** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20series%20Prediction%20with%20LSTM%20RNN%20in%20Python%20with%20Keras.ipynb)
+5.  **Time Series Forecasting: ARIMA model for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20model%20for%20Time%20Series%20Forecasting.ipynb)
+6.  **Time Series Forecasting: ARIMA and LSTM models for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20and%20LSTM%20models%20for%20Time%20Series%20Forecasting.ipynb)
 
 
 
@@ -50,15 +50,15 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 
 # See also Natural Language Processing with python
 
-* **Natural Language Processing using DataAnalyst.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20using%20DataAnalyst.csv.ipynb)
-* **Natural language processing using Full-Economic-News-DFE-839861.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20language%20processing%20using%20Full-Economic-News-DFE-839861.csv.ipynb)
-* **Natural Language Procesing with Python** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Procesing%20with%20Python.ipynb) 
-* **Natural Language Processing** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing.ipynb)
-* **Natural Language Processing with SpaCy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20SpaCy.ipynb)
-* **Natural Language Processing in Python using SpaCy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20in%20Python%20using%20SpaCy.ipynb) 
-* **Text Classification with Football-Scenarios-DFE-832307.csv** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Football-Scenarios-DFE-832307.csv.ipynb)
-* **Text Classification with Natural Language Processing in Python - agreement-sentence-agreement-DFE dataset** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Natural%20Language%20Processing%20in%20Python%20-%20agreement-sentence-agreement-DFE%20dataset.ipynb)
-* **Text Classification with agreement-sentence-agreement-DFE.csv** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20agreement-sentence-agreement-DFE.csv.ipynb)
+1. **Natural Language Processing: Natural Language Processing using DataAnalyst.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20using%20DataAnalyst.csv.ipynb)
+2. **Natural Language Processing: Natural language processing using Full-Economic-News-DFE-839861.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20language%20processing%20using%20Full-Economic-News-DFE-839861.csv.ipynb)
+3. **Natural Language Processing: Natural Language Procesing with Python** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Procesing%20with%20Python.ipynb) 
+4. **Natural Language Processing: Natural Language Processing** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing.ipynb)
+5. **Natural Language Processing: Natural Language Processing with SpaCy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20SpaCy.ipynb)
+6. **Natural Language Processing: Natural Language Processing in Python using SpaCy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20in%20Python%20using%20SpaCy.ipynb) 
+7. **Natural Language Processing: Text Classification with Football-Scenarios-DFE-832307.csv** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Football-Scenarios-DFE-832307.csv.ipynb)
+8. **Natural Language Processing: Text Classification with Natural Language Processing in Python - agreement-sentence-agreement-DFE dataset** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Natural%20Language%20Processing%20in%20Python%20-%20agreement-sentence-agreement-DFE%20dataset.ipynb)
+9. **Natural Language Processing: Text Classification with agreement-sentence-agreement-DFE.csv** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20agreement-sentence-agreement-DFE.csv.ipynb)
 
 
 
