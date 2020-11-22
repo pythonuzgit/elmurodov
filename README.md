@@ -3,7 +3,7 @@
 
 
 
-#  Machine learning with Python <h1>
+#  Machine learning with Python: T U T O R I A L <h1>
  
  # Deep Learning (TensorFlow and keras) with python
 
