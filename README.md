@@ -18,6 +18,21 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 7.  **Deep Learning: Neural Network in Keras with page-blocks dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
 8.  **Deep Learning: Neural Network in Keras with phoneme datset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20phoneme%20datset.ipynb)
 
+# See also Deep Learning for Natural Language Processing (NLP)
+
+
+* **Netflix_titles using Deep Learning in Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Netflix_titles%20using%20Deep%20Learning%20in%20Keras.ipynb)
+* **Deep learning for NLP** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20learning%20for%20NLP.ipynb)
+* **Deep learning for Natural language processing** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Deep%20learning%20for%20Natural%20language%20processing.ipynb)
+* **Generating text using a recurrent neural network** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
+* **Text Generation using LSTM RNN with Keras** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Generation%20using%20LSTM%20RNN%20with%20Keras.ipynb)
+* **Text generation using Recuurent neural network with 034.txt** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20generation%20using%20Recurrent%20neural%20network%20with%20034.txt.ipynb)
+* **Logistic regression and Neural Network in Text classification** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Logistic%20regression%20and%20Neural%20Network%20in%20Text%20classification%20.ipynb)
+* **Text Classification with Deep Neural Network, Logistic regression** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Classification%20with%20Deep%20Neural%20Network%2C%20Logistic%20regression.ipynb)
+
+
+
+
  
  
  
@@ -96,18 +111,7 @@ Gaussian mixture models are very useful when it comes to modeling data, especial
 [Example](https://github.com/pythonuzgit/elmurodov_gmm/blob/master/Gaussian%20Mixture%20Model%20(GMM)%20with%20motor%20datasets.ipynb)
 
 
-# See also Deep Learning (TensorFlow and keras) with python
 
-Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
-
-*  **House price prediction using regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20prediction%20using%20regression%20.ipynb)
-*  **House price with Tensorflow and Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20with%20Tensorflow%20and%20Keras.ipynb)
-*  **Linear Regression in Tensorflow with seismic-bumps dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
-*  **Keras Neural Network for Linear Regression with Beauty Data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/commit/3929085d0a8787635b4b2f79eb73a3a27f4b3e98)
-*  **Keras Neural Network for logistic regression with satimage_csv data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Keras%20Neural%20Network%20for%20logistic%20regression%20with%20satimage_csv%20data.ipynb)
-*  **Multilayer perceptron with abalone dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Multilayer%20perceptron%20with%20abalone%20dataset.ipynb)
-*  **Neural Network in Keras with page-blocks dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
-*  **Neural Network in Keras with phoneme datset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20phoneme%20datset.ipynb)
 
 
 # See also Deep Learning for Natural Language Processing (NLP)
