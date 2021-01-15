@@ -63,6 +63,7 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 11. **Natural Language Processing Natural Language Processing: Text Classification using vaccination_tweets** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing_Text%20classification%20using%20vaccination_tweets.cvs.ipynb)
 12. **Natural Language Processing: Text Classifications with covid19_tweets** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20Text%20Classifications%20with%20covid19_tweets.ipynb)
 13. **Natural Language Processing: using tripadvisor_hotel_review dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20tripadvisor_hotel_reviewa%20dataset.ipynb)
+14. **Natural Language Processing: using indian_food dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20indian_food%20dataset.ipynb)
 
 
 
