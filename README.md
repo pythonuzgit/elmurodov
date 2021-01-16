@@ -29,6 +29,7 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 6. **Deep Learning for Natural Language Processing (NLP): Text generation using Recuurent neural network with 034.txt** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20generation%20using%20Recurrent%20neural%20network%20with%20034.txt.ipynb)
 7. **Deep Learning for Natural Language Processing (NLP): Logistic regression and Neural Network in Text classification** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Logistic%20regression%20and%20Neural%20Network%20in%20Text%20classification%20.ipynb)
 8. **Deep Learning for Natural Language Processing (NLP): Text Classification with Deep Neural Network, Logistic regression** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Classification%20with%20Deep%20Neural%20Network%2C%20Logistic%20regression.ipynb)
+9. **Deep Learning for Natural Language Processing using IMDB Dataset** [Example] (https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20Learning%20for%20Natural%20Language%20Processing%20using%20IMDB%20Dataset.ipynb)
 
 
 # See also Time Series Forecasting with python
