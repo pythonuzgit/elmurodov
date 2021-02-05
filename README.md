@@ -19,6 +19,7 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 8.  **Deep Learning: Neural Network in Keras with phoneme datset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20phoneme%20datset.ipynb)
 9. **Deep Learning: Tensorflow with Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Regression.ipynb)
 10. **Deep Learning: Tensorflow with Classification and Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Classification%20and%20Regression.ipynb)
+11. **Deep Learning: Tensorflow and Keras with classification and regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20and%20Keras%20with%20classification%20and%20regression%20.ipynb)
 
 # See also Deep Learning for Natural Language Processing (NLP)
 
