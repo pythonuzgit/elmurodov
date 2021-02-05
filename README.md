@@ -132,7 +132,7 @@ The process of creating a neural network in Python begins with the most basic fo
 
 
 
-****Unsupervised** learning**
+****Unsupervised** learning** 
 
 Unsupervised learning algorithm will be use a metric such as distance in order to identify how close a set of points are to each other and how far apart two such groups are.
 
