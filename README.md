@@ -21,6 +21,7 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 10. **Deep Learning: Tensorflow with Classification and Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Classification%20and%20Regression.ipynb)
 11. **Deep Learning: Tensorflow and Keras with classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20and%20Keras%20with%20classification.ipynb)
 
+
 # See also Deep Learning for Natural Language Processing (NLP)
 
 
@@ -33,6 +34,7 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 7. **Deep Learning for Natural Language Processing (NLP): Logistic regression and Neural Network in Text classification** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Logistic%20regression%20and%20Neural%20Network%20in%20Text%20classification%20.ipynb)
 8. **Deep Learning for Natural Language Processing (NLP): Text Classification with Deep Neural Network, Logistic regression** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Classification%20with%20Deep%20Neural%20Network%2C%20Logistic%20regression.ipynb)
 9. **Deep Learning for Natural Language Processing using IMDB Dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20Learning%20for%20Natural%20Language%20Processing%20using%20IMDB%20Dataset.ipynb)
+10. 12. **Deep Learning for Natural Language Processing (NLP): Vaccination tweets** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Vaccination%20tweets.ipynb)
 
 
 # See also Time Series Forecasting with python
