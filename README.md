@@ -71,6 +71,8 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 13. **Natural Language Processing: using tripadvisor_hotel_review dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20tripadvisor_hotel_reviewa%20dataset.ipynb)
 14. **Natural Language Processing: using indian_food dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20indian_food%20dataset.ipynb)
 15. **Natural Language Processing: using Apple-Twitter-Sentiment_DFE** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/NLP%20using%20Apple-Twitter-Sentiment_DFE.ipynb)
+16. **Natural Language Processing: using%20user_reviews_g1** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/NLP%20using%20user_reviews_g1.ipynb) 
+ 
 
 
 
