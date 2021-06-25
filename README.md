@@ -22,7 +22,7 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 
 # Deep Learning for Convolutional Neural Network (CNN)
 
-1. **Convolutional Neural Network: Image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20Classification%20with%20Deep%20Learning.ipynb)
+1. **Convolutional Neural Network: Image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20classification%20with%20Deep%20Learning.ipynb)
 
 # See also Deep Learning for Natural Language Processing (NLP)
 
