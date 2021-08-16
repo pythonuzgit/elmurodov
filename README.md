@@ -4,6 +4,9 @@
 # Deep Learning with PyTorch
 
 
+1. **PyTorch: Image Classification model using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image_classification_model_using_PyTorch.ipynb)
+
+
 
 
  
