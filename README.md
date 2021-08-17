@@ -6,6 +6,7 @@
 
 1. **PyTorch: Image Classification model using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image_classification_model_using_PyTorch.ipynb)
 2. **PyTorch: Image Classification using CNN in PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image_classification_using_CNN_in_PyTorch.ipynb)
+3. **PyTorch: Image Classification using PyTorch_with paddy_pests dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image_classification_using_PyTorch_with_paddy_pests_dataset.ipynb)
 
 
 
