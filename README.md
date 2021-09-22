@@ -8,6 +8,7 @@
 2. **PyTorch: Image Classification using CNN in PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image_classification_using_CNN_in_PyTorch.ipynb)
 3. **PyTorch: Image Classification using PyTorch with paddy_pests dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image_classification_using_PyTorch_with_paddy_pests_dataset.ipynb)
 4. **PyTorch: Image Classification using PyTorch with Flowers dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image_Classification_using_PyTorch_with_Flowers_dataset.ipynb)
+5. **PyTorch: Natural Language Processing with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural_language_processing_with_PyTorch.ipynb)
 
 
 
