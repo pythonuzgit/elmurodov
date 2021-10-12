@@ -34,10 +34,12 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 
 # Deep Learning for Convolutional Neural Network (CNN)
 
-1. **Convolutional Neural Network: Image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20classification%20with%20Deep%20Learning.ipynb)
-2. **Convolutional Neural Network: Image classification with Machine Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20Classification%20with%20Machine%20Learning.ipynb)
-3. **Convolutional Neural Network: Multiclass image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Multiclass_image_classification_with_Deep_Learning.ipynb)
-4. **Convolutional Neural Network: Multiclass image classification with Deep Learning and 70-dogs** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Multiclass_image_Classification_with_Deep_Learning_and_70_dogs_.ipynb)
+
+1. **Convolutional Neural Network: Multiclass image classification with famous-iconic-woken dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Multiclass_image_classification_with_famous_iconic_women.ipynb)
+2. **Convolutional Neural Network: Image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20classification%20with%20Deep%20Learning.ipynb)
+3. **Convolutional Neural Network: Image classification with Machine Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20Classification%20with%20Machine%20Learning.ipynb)
+4. **Convolutional Neural Network: Multiclass image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Multiclass_image_classification_with_Deep_Learning.ipynb)
+5. **Convolutional Neural Network: Multiclass image classification with Deep Learning and 70-dogs** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Multiclass_image_Classification_with_Deep_Learning_and_70_dogs_.ipynb)
 
 
 
