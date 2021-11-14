@@ -1,6 +1,6 @@
 # Natural Language Processing with Huggin Face usingPyTorch
 
-1. **Sentiment analysis with Hugging Face using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Sentiment_analysis_with_Hugging_Face_using_PyTorch.ipynb)
+1. **PyTorch: Sentiment analysis with Hugging Face using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Sentiment_analysis_with_Hugging_Face_using_PyTorch.ipynb)
 2. **PyTorch: Natural Language Processing with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural_language_processing_with_PyTorch.ipynb)
 
 # Deep Learning with PyTorch
