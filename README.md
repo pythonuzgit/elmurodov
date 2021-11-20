@@ -62,14 +62,7 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 10. **Deep Learning for Natural Language Processing (NLP): Vaccination tweets** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Vaccination%20tweets.ipynb)
 
 
-# See also Time Series Forecasting with python
 
-1. **Time Series Forecasting: Alchohol time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Alchohol%20time%20series%20forecasting.ipynb)
-2.  **Time Series Forecasting: Hause time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Hause%20time%20series%20forecasting.ipynb)
-3.  **Time Series Forecasting: Time Series Prediction with LSTM** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20Series%20Prediction%20with%20LSTM%20.ipynb)
-4.  **Time Series Forecasting: Time series Prediction with LSTM RNN in Python with Keras** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20series%20Prediction%20with%20LSTM%20RNN%20in%20Python%20with%20Keras.ipynb)
-5.  **Time Series Forecasting: ARIMA model for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20model%20for%20Time%20Series%20Forecasting.ipynb)
-6.  **Time Series Forecasting: ARIMA and LSTM models for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20and%20LSTM%20models%20for%20Time%20Series%20Forecasting.ipynb)
 
 
 
@@ -99,7 +92,14 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 16. **Natural Language Processing: using%20user_reviews_g1** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/NLP%20using%20user_reviews_g1.ipynb) 
  
 
+# See also Time Series Forecasting with python
 
+1. **Time Series Forecasting: Alchohol time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Alchohol%20time%20series%20forecasting.ipynb)
+2.  **Time Series Forecasting: Hause time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Hause%20time%20series%20forecasting.ipynb)
+3.  **Time Series Forecasting: Time Series Prediction with LSTM** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20Series%20Prediction%20with%20LSTM%20.ipynb)
+4.  **Time Series Forecasting: Time series Prediction with LSTM RNN in Python with Keras** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20series%20Prediction%20with%20LSTM%20RNN%20in%20Python%20with%20Keras.ipynb)
+5.  **Time Series Forecasting: ARIMA model for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20model%20for%20Time%20Series%20Forecasting.ipynb)
+6.  **Time Series Forecasting: ARIMA and LSTM models for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20and%20LSTM%20models%20for%20Time%20Series%20Forecasting.ipynb)
 
 
 
