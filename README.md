@@ -3,12 +3,13 @@
 
 
 1. **PyTorch: Review Universal studio analysis with Hugging Face using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Review_Universal_studio_analysis_with_Hugging_Face_using_PyTorch.ipynb)
-2. **PyTorch: Tweet emotions analysis with Hugging Face using PyTprch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Tweet_emotions_analysis_with_Hugging_Face_using_PyTprch_.ipynb)
-3. **PyTorch: Climate-change analysis with Hugging Face using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Climate_change_analysis_with_Hugging_Face_using_PyTorch.ipynb)
-4. **PyTorch: Sentiment analysis with Hugging Face using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Sentiment_analysis_with_Hugging_Face_using_PyTorch.ipynb)
-5. **PyTorch: Natural Language Processing with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural_language_processing_with_PyTorch.ipynb)
-6. **PyTorch: Senitiment analysis with Hugging Face and BERT using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Sentiment_analysis_with_Hugging_face_and_BERT_using_PyTorch.ipynb)
-7. **PyTorch: Emotion analysis using Hugging Face and BERT using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Emotion_analysis_using_Hugging_Face_and_BERT_with_PyTorch.ipynb)
+2. **PyTorch: Sap press analysis with Hugging Face using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Sap_press_analysis_with_Hugging_Face_using_PyTorch.ipynb)
+3. **PyTorch: Tweet emotions analysis with Hugging Face using PyTprch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Tweet_emotions_analysis_with_Hugging_Face_using_PyTprch_.ipynb)
+4. **PyTorch: Climate-change analysis with Hugging Face using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Climate_change_analysis_with_Hugging_Face_using_PyTorch.ipynb)
+5. **PyTorch: Sentiment analysis with Hugging Face using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Sentiment_analysis_with_Hugging_Face_using_PyTorch.ipynb)
+6. **PyTorch: Natural Language Processing with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural_language_processing_with_PyTorch.ipynb)
+7. **PyTorch: Senitiment analysis with Hugging Face and BERT using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Sentiment_analysis_with_Hugging_face_and_BERT_using_PyTorch.ipynb)
+8. **PyTorch: Emotion analysis using Hugging Face and BERT using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Emotion_analysis_using_Hugging_Face_and_BERT_with_PyTorch.ipynb)
 
 
 # Deep Learning with PyTorch
