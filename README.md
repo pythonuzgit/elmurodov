@@ -16,7 +16,7 @@
 
 # Deep Learning with PyTorch
 
-1. **PyTorch: Image Classification using PyTorch with applescablds**  [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image_Classification_using_PyTorch_with_applescablds.ipynb)
+1. **PyTorch: Image Classification using PyTorch with applescablds**  [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_model_using_PyTorch_with_applescablds.ipynb)
 2. **PyTorch: Lightning_for_is_she's_gorgeous_classification with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Lightning_for_is_she's_gorgeous_classification_.ipynb)
 3. **PyTorch: Image Classification model using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image_classification_model_using_PyTorch.ipynb)
 5. **PyTorch: Image Classification using CNN in PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image_classification_using_CNN_in_PyTorch.ipynb)
