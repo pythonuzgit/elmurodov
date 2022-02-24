@@ -14,6 +14,10 @@
 10. **PyTorch: Emotion analysis using Hugging Face and BERT using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20with%20PyTorch/Emotion_analysis_using_Hugging_Face_and_BERT_with_PyTorch.ipynb)
 
 
+
+# Natural Language Processing using Gensim
+
+
 # Deep Learning with PyTorch
 
 1. **PyTorch: Image Classification using PyTorch with applescablds**  [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_model_using_PyTorch_with_applescablds.ipynb)
