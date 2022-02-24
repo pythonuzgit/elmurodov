@@ -17,7 +17,7 @@
 
 # Natural Language Processing using Gensim
 
-1. ""NLP: Sentiment_analysis_physic_vs_chemistry_vs_biology"" [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Sentiment_analysis_physic_vs_chemistry_vs_biology.ipynb)
+1. **NLP: Sentiment_analysis_physic_vs_chemistry_vs_biology** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Sentiment_analysis_physic_vs_chemistry_vs_biology.ipynb)
 
 
 # Deep Learning with PyTorch
