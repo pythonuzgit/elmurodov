@@ -18,7 +18,8 @@
 # Natural Language Processing using Gensim
 
 1. **NLP: Sentiment_analysis physic vs chemistry vs biology** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Sentiment_analysis_physic_vs_chemistry_vs_biology.ipynb)
-2. **NLP: Twetter sentiment analysis with Gensim using sklearn** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Twetter_sentiment_analysis_with_Gensim_using_sklearn.ipynb)
+2. **NLP: Twetter sentiment analysis with Gensim using sklearn** [Example]
+(https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Sentiment_analysis_physic_vs_chemistry_vs_biology_with_Gensim_using_sklearn.ipynb)
 
 
 
