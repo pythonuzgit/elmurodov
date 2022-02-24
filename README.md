@@ -15,9 +15,9 @@
 
 
 
-# Natural Language Processing using Gensim
+# Natural Language Processing(NLP) using Gensim
 
-1. **NLP: Sentiment_analysis physic vs chemistry vs biology with Gensim using sklearn** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Sentiment_analysis_physic_vs_chemistry_vs_biology.ipynb)
+1. **NLP: Sentiment analysis physic vs chemistry vs biology with Gensim using sklearn** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Sentiment_analysis_physic_vs_chemistry_vs_biology.ipynb)
 2. **NLP: Twetter sentiment analysis with Gensim using sklearn** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Sentiment_analysis_physic_vs_chemistry_vs_biology_with_Gensim_using_sklearn.ipynb)
 
 
@@ -27,7 +27,7 @@
 # Deep Learning with PyTorch
 
 1. **PyTorch: Image Classification using PyTorch with applescablds**  [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_model_using_PyTorch_with_applescablds.ipynb)
-2. **PyTorch: Lightning_for_is_she's_gorgeous_classification with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Lightning_for_is_she's_gorgeous_classification_.ipynb)
+2. **PyTorch: Lightning for is she's gorgeous_classification with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Lightning_for_is_she's_gorgeous_classification_.ipynb)
 3. **PyTorch: Image Classification model using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_model_using_PyTorch.ipynb)
 5. **PyTorch: Image Classification using CNN in PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_CNN_in_PyTorch.ipynb)
 6. **PyTorch: Image Classification using PyTorch with paddy_pests dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_PyTorch_with_paddy_pests_dataset.ipynb)
