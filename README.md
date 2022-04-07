@@ -27,7 +27,7 @@
 
 
 
-# Convolutional neural network with PyTorch
+# Convolutional Neural Network with PyTorch
 
 1. **PyTorch: Image Classification using PyTorch with applescablds**  [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_model_using_PyTorch_with_applescablds.ipynb)
 2. **PyTorch: Lightning for is she's gorgeous_classification with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Lightning_for_is_she's_gorgeous_classification_.ipynb)
