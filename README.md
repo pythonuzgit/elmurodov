@@ -15,7 +15,7 @@
 
 
 
-# Natural Language Processing(NLP) using Gensim
+# Natural Language Processing(NLP) with Gensim using PyTorch
 
 
 
@@ -27,7 +27,62 @@
 
 
 
+
+# Deep Learning (TensorFlow/Keras) for Natural Language Processing (NLP)
+
+
+
+1. **Deep Learning for Natural Language Processing (NLP): Netflix_titles using Deep Learning in Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Netflix_titles%20using%20Deep%20Learning%20in%20Keras.ipynb)
+2. **Deep Learning for Natural Language Processing (NLP): Deep learning for NLP** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20learning%20for%20NLP.ipynb)
+3. **Deep Learning for Natural Language Processing (NLP): Deep learning for Natural language processing** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Deep%20learning%20for%20Natural%20language%20processing.ipynb)
+4. **Deep Learning for Natural Language Processing (NLP): Generating text using a Recurrent Neural Network** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
+5. **Deep Learning for Natural Language Processing (NLP): Text Generation using LSTM RNN with Keras** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Generation%20using%20LSTM%20RNN%20with%20Keras.ipynb)
+6. **Deep Learning for Natural Language Processing (NLP): Text generation using Recurrent Neural Network with 034.txt** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20generation%20using%20Recurrent%20neural%20network%20with%20034.txt.ipynb)
+7. **Deep Learning for Natural Language Processing (NLP): Logistic regression and Neural Network in Text classification** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Logistic%20regression%20and%20Neural%20Network%20in%20Text%20classification%20.ipynb)
+8. **Deep Learning for Natural Language Processing (NLP): Text Classification with Deep Neural Network, Logistic regression** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Classification%20with%20Deep%20Neural%20Network%2C%20Logistic%20regression.ipynb)
+9. **Deep Learning for Natural Language Processing (NLP): using IMDB Dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20Learning%20for%20Natural%20Language%20Processing%20using%20IMDB%20Dataset.ipynb)
+10. **Deep Learning for Natural Language Processing (NLP): Vaccination tweets** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Vaccination%20tweets.ipynb)
+
+
+
+
+
+
+
+
+
+
+
+
+# Natural Language Processing with python
+
+1. **Natural Language Processing:  using DataAnalyst.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20using%20DataAnalyst.csv.ipynb)
+2. **Natural Language Processing: using Full-Economic-News-DFE-839861.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20language%20processing%20using%20Full-Economic-News-DFE-839861.csv.ipynb)
+3. **Natural Language Processing: Natural Language Procesing with Python** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Procesing%20with%20Python.ipynb) 
+4. **Natural Language Processing: Natural Language Processing** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing.ipynb)
+5. **Natural Language Processing: with SpaCy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20SpaCy.ipynb)
+6. **Natural Language Processing: using SpaCy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20in%20Python%20using%20SpaCy.ipynb)
+7. **Natural Language Processing: using KMeans method** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20KMeans%20method.ipynb)
+8. **Natural Language Processing: using KMeans method with internet news data** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20using%20KMeans%20method%20with%20internet%20news%20data.ipynb)
+9. **Natural Language Processing: Text Classification with Football-Scenarios-DFE-832307.csv** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Football-Scenarios-DFE-832307.csv.ipynb)
+10. **Natural Language Processing: Text Classification using agreement-sentence-agreement-DFE dataset** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Natural%20Language%20Processing%20in%20Python%20-%20agreement-sentence-agreement-DFE%20dataset.ipynb)
+11. **Natural Language Processing: Text Classification using vaccination_tweets** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing_Text%20classification%20using%20vaccination_tweets.cvs.ipynb)
+12. **Natural Language Processing: Text Classifications with covid19_tweets** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20Text%20Classifications%20with%20covid19_tweets.ipynb)
+13. **Natural Language Processing: using tripadvisor_hotel_review dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20tripadvisor_hotel_reviewa%20dataset.ipynb)
+14. **Natural Language Processing: using indian_food dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20indian_food%20dataset.ipynb)
+15. **Natural Language Processing: using Apple-Twitter-Sentiment_DFE** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/NLP%20using%20Apple-Twitter-Sentiment_DFE.ipynb)
+16. **Natural Language Processing: using%20user_reviews_g1** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/NLP%20using%20user_reviews_g1.ipynb) 
+ 
+
+
+
+
+
 # Convolutional Neural Network with PyTorch
+
+
+
+
 
 1. **PyTorch: Image Classification using PyTorch with applescablds**  [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_model_using_PyTorch_with_applescablds.ipynb)
 2. **PyTorch: Lightning for is she's gorgeous_classification with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Lightning_for_is_she's_gorgeous_classification_.ipynb)
@@ -41,7 +96,9 @@
 
 
  
- # Deep Learning (TensorFlow and keras) with python
+ # Deep Learning (TensorFlow/Keras) with Python
+ 
+ 
 
 Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
 
@@ -68,52 +125,13 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 
 
 
-# See also Deep Learning for Natural Language Processing (NLP)
 
 
-1. **Deep Learning for Natural Language Processing (NLP): Netflix_titles using Deep Learning in Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Netflix_titles%20using%20Deep%20Learning%20in%20Keras.ipynb)
-2. **Deep Learning for Natural Language Processing (NLP): Deep learning for NLP** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20learning%20for%20NLP.ipynb)
-3. **Deep Learning for Natural Language Processing (NLP): Deep learning for Natural language processing** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Deep%20learning%20for%20Natural%20language%20processing.ipynb)
-4. **Deep Learning for Natural Language Processing (NLP): Generating text using a Recurrent Neural Network** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
-5. **Deep Learning for Natural Language Processing (NLP): Text Generation using LSTM RNN with Keras** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Generation%20using%20LSTM%20RNN%20with%20Keras.ipynb)
-6. **Deep Learning for Natural Language Processing (NLP): Text generation using Recurrent Neural Network with 034.txt** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20generation%20using%20Recurrent%20neural%20network%20with%20034.txt.ipynb)
-7. **Deep Learning for Natural Language Processing (NLP): Logistic regression and Neural Network in Text classification** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Logistic%20regression%20and%20Neural%20Network%20in%20Text%20classification%20.ipynb)
-8. **Deep Learning for Natural Language Processing (NLP): Text Classification with Deep Neural Network, Logistic regression** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Classification%20with%20Deep%20Neural%20Network%2C%20Logistic%20regression.ipynb)
-9. **Deep Learning for Natural Language Processing (NLP): using IMDB Dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20Learning%20for%20Natural%20Language%20Processing%20using%20IMDB%20Dataset.ipynb)
-10. **Deep Learning for Natural Language Processing (NLP): Vaccination tweets** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Vaccination%20tweets.ipynb)
-
-
-
-
-
-
-
-
-
-
-
-
-# See also Natural Language Processing with python
-
-1. **Natural Language Processing:  using DataAnalyst.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20using%20DataAnalyst.csv.ipynb)
-2. **Natural Language Processing: using Full-Economic-News-DFE-839861.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20language%20processing%20using%20Full-Economic-News-DFE-839861.csv.ipynb)
-3. **Natural Language Processing: Natural Language Procesing with Python** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Procesing%20with%20Python.ipynb) 
-4. **Natural Language Processing: Natural Language Processing** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing.ipynb)
-5. **Natural Language Processing: with SpaCy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20SpaCy.ipynb)
-6. **Natural Language Processing: using SpaCy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20in%20Python%20using%20SpaCy.ipynb)
-7. **Natural Language Processing: using KMeans method** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20KMeans%20method.ipynb)
-8. **Natural Language Processing: using KMeans method with internet news data** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20using%20KMeans%20method%20with%20internet%20news%20data.ipynb)
-9. **Natural Language Processing: Text Classification with Football-Scenarios-DFE-832307.csv** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Football-Scenarios-DFE-832307.csv.ipynb)
-10. **Natural Language Processing: Text Classification using agreement-sentence-agreement-DFE dataset** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Natural%20Language%20Processing%20in%20Python%20-%20agreement-sentence-agreement-DFE%20dataset.ipynb)
-11. **Natural Language Processing: Text Classification using vaccination_tweets** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing_Text%20classification%20using%20vaccination_tweets.cvs.ipynb)
-12. **Natural Language Processing: Text Classifications with covid19_tweets** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20Text%20Classifications%20with%20covid19_tweets.ipynb)
-13. **Natural Language Processing: using tripadvisor_hotel_review dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20tripadvisor_hotel_reviewa%20dataset.ipynb)
-14. **Natural Language Processing: using indian_food dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20indian_food%20dataset.ipynb)
-15. **Natural Language Processing: using Apple-Twitter-Sentiment_DFE** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/NLP%20using%20Apple-Twitter-Sentiment_DFE.ipynb)
-16. **Natural Language Processing: using%20user_reviews_g1** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/NLP%20using%20user_reviews_g1.ipynb) 
- 
 
 # See also Time Series Forecasting with python
+
+
+
 
 1. **Time Series Forecasting: Alchohol time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Alchohol%20time%20series%20forecasting.ipynb)
 2.  **Time Series Forecasting: Hause time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Hause%20time%20series%20forecasting.ipynb)
