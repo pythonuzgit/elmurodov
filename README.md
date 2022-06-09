@@ -1,3 +1,5 @@
+
+
 # Natural Language Processing with Hugging Face using PyTorch
 
 
@@ -28,7 +30,7 @@
 
 
 
-# Deep Learning (TensorFlow/Keras) for Natural Language Processing (NLP)
+# Natural Language Processing (NLP) with Deep Learning (TensorFlow/Keras)
 
 
 
@@ -54,7 +56,7 @@
 
 
 
-# Natural Language Processing with python
+# Natural Language Processing with Python
 
 1. **Natural Language Processing:  using DataAnalyst.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20using%20DataAnalyst.csv.ipynb)
 2. **Natural Language Processing: using Full-Economic-News-DFE-839861.csv** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/Natural%20language%20processing%20using%20Full-Economic-News-DFE-839861.csv.ipynb)
