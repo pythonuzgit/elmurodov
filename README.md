@@ -116,7 +116,7 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 10. **Deep Learning: Tensorflow with Classification and Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Classification%20and%20Regression.ipynb)
 11. **Deep Learning: Tensorflow and Keras with classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20and%20Keras%20with%20classification.ipynb)
 
-# Deep Learning for Convolutional Neural Network (CNN)
+# Deep Learning (TensorFlow/Keras) for Convolutional Neural Network
 
 
 1. **Convolutional Neural Network: Multiclass image classification with famous-iconic-women dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_classification_with_famous_iconic_women.ipynb)
