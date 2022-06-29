@@ -26,7 +26,9 @@
 2. **NLP: Twetter sentiment analysis with Gensim using sklearn** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Twetter_sentiment_analysis_with_Gensim_using_sklearn.ipynb)
 
 
+# Deep Learning with PyTorch
 
+1.**PyTorch: Amsterdam House Price Prediction with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Amsterdam_House_Price_Prediction_with_PyTorch.ipynb)
 
 
 
