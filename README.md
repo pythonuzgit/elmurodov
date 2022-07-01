@@ -29,6 +29,7 @@
 # Deep Learning with PyTorch
 
 1.  **PyTorch: Amsterdam House Price Prediction with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Amsterdam_House_Price_Prediction_with_PyTorch.ipynb)
+2   **PyTorch: Guadalajara rent prices prediction Tensorflow PyTorch**[Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Guadalajara_rent_prices_prediction_Tensorflow_PyTorch.ipynb)
 
 
 
