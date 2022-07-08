@@ -39,16 +39,16 @@
 
 
 
-1. **Deep Learning for Natural Language Processing (NLP): Netflix_titles using Deep Learning in Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Netflix_titles%20using%20Deep%20Learning%20in%20Keras.ipynb)
-2. **Deep Learning for Natural Language Processing (NLP): Deep learning for NLP** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20learning%20for%20NLP.ipynb)
-3. **Deep Learning for Natural Language Processing (NLP): Deep learning for NLP** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Deep%20learning%20for%20Natural%20language%20processing.ipynb)
-4. **Deep Learning for Natural Language Processing (NLP): Generating text using LSTM** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
-5. **Deep Learning for Natural Language Processing (NLP): Text Generation using LSTM** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Generation%20using%20LSTM%20RNN%20with%20Keras.ipynb)
-6. **Deep Learning for Natural Language Processing (NLP): Text generation using Recurrent Neural Network with 034.txt** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20generation%20using%20Recurrent%20neural%20network%20with%20034.txt.ipynb)
-7. **Deep Learning for Natural Language Processing (NLP): Logistic regression and Neural Network in Text classification** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Logistic%20regression%20and%20Neural%20Network%20in%20Text%20classification%20.ipynb)
-8. **Deep Learning for Natural Language Processing (NLP): Text Classification with Deep Neural Network, Logistic regression** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Classification%20with%20Deep%20Neural%20Network%2C%20Logistic%20regression.ipynb)
-9. **Deep Learning for Natural Language Processing (NLP): with IMDB Dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20Learning%20for%20Natural%20Language%20Processing%20using%20IMDB%20Dataset.ipynb)
-10. **Deep Learning for Natural Language Processing (NLP): using LSTM with Vaccination tweets** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Vaccination%20tweets.ipynb)
+1. **Deep Learning for Natural Language Processing: Netflix_titles using Deep Learning in Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Netflix_titles%20using%20Deep%20Learning%20in%20Keras.ipynb)
+2. **Deep Learning for Natural Language Processing: Deep learning for NLP** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20learning%20for%20NLP.ipynb)
+3. **Deep Learning for Natural Language Processing: Deep learning for NLP** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Deep%20learning%20for%20Natural%20language%20processing.ipynb)
+4. **Deep Learning for Natural Language Processing: Generating text using LSTM** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
+5. **Deep Learning for Natural Language Processing: Text Generation using LSTM** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Generation%20using%20LSTM%20RNN%20with%20Keras.ipynb)
+6. **Deep Learning for Natural Language Processing: Text generation using Recurrent Neural Network with 034.txt** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20generation%20using%20Recurrent%20neural%20network%20with%20034.txt.ipynb)
+7. **Deep Learning for Natural Language Processing: Logistic regression and Neural Network in Text classification** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Logistic%20regression%20and%20Neural%20Network%20in%20Text%20classification%20.ipynb)
+8. **Deep Learning for Natural Language Processing: Text Classification with Deep Neural Network, Logistic regression** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Classification%20with%20Deep%20Neural%20Network%2C%20Logistic%20regression.ipynb)
+9. **Deep Learning for Natural Language Processing: with IMDB Dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Deep%20Learning%20for%20Natural%20Language%20Processing%20using%20IMDB%20Dataset.ipynb)
+10. **Deep Learning for Natural Language Processing: using LSTM with Vaccination tweets** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing/Vaccination%20tweets.ipynb)
 
 
 
