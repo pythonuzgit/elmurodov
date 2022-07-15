@@ -155,9 +155,9 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
   #  Machine learning with scikit-learn <h2>
   
   1. **Scikit Learn: Regression Models with Decision Tree, Random Forest and XGBoost** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Machine%20Learning/Regression_Models_with_Decision_Tree%2C_Random_Forest_and_XGBoost.ipynb)
-  2. **Scikit Learn: USA real estate dataset**[Example](https://github.com/pythonuzgit/elmurodov/blob/master/Machine%20Learning/USA_real_estate_dataset.ipynb)
-  3. **Scikit Learn: House price **[Example](https://github.com/pythonuzgit/elmurodov/blob/master/Machine%20Learning/House%20prices%20with%20Scikit-learn.ipynb)
-  4. **Scikit Learn: kc house price prediction using regression **[Example](https://github.com/pythonuzgit/elmurodov/blob/master/Machine%20Learning/kc_house%20price%20prediction%20using%20regression%20.ipynb)
+  2. **Scikit Learn: USA real estate dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Machine%20Learning/USA_real_estate_dataset.ipynb)
+  3. **Scikit Learn: House price** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Machine%20Learning/House%20prices%20with%20Scikit-learn.ipynb)
+  4. **Scikit Learn: kc house price prediction using regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Machine%20Learning/kc_house%20price%20prediction%20using%20regression%20.ipynb)
   5. ****[Example]()
  
  
