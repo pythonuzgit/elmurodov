@@ -1,9 +1,9 @@
 
-# Computer Vision
+# Computer Vision (CV)
 
 
-1. **Computer Vision: Muffin and Chihuahua image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Muffin_vs_Chihuahua_image_classification_using_PyTorch.ipynb)
-2.  **Compuer Vision: Animal image using Transfer Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Animal_image_using_Transfer_learning.ipynb)
+1. **CV: Muffin and Chihuahua image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Muffin_vs_Chihuahua_image_classification_using_PyTorch.ipynb)
+2.  **CV: Animal image using Transfer Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Animal_image_using_Transfer_learning.ipynb)
 
 
 
