@@ -1,6 +1,8 @@
 
 #GPT2/GPT3
 
+**GPT2 generated Tweet** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/GPT2%3FGPT2_generated_Tweet.ipynb)
+
 
 #Knowledge Graph
 
