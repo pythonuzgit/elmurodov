@@ -1,10 +1,10 @@
 
-#GPT2/GPT3
+# GPT2/GPT3
 
 **GPT2 generated Tweet** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/GPT2%3FGPT2_generated_Tweet.ipynb)
 
 
-#Knowledge Graph
+# Knowledge Graph
 
 **Knowlege Graph with machine Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Knowledge%20Graph/Knowledge_learning_with_machine_learning.ipynb)
 
