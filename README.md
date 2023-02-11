@@ -6,6 +6,8 @@
 
 #Knowledge Graph
 
+**Knowlege Graph with machine Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Knowledge%20Graph/Knowledge_learning_with_machine_learning.ipynb)
+
 
 
 # Computer Vision (CV)
