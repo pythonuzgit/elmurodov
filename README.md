@@ -1,6 +1,6 @@
 # Graph Neural Network
 
-**Graph neural Network in NLP with Movie Dataset** []
+**Graph neural Network in NLP with Movie Dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Graph%20Neural%20Network/Graph_Neural_Network_in_NLP_with_Movies_dataset.ipynb)
 
 # Transformers
 
