@@ -138,17 +138,17 @@
  
  Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
 
-1.  **Deep Learning: House price prediction using regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20prediction%20using%20regression%20.ipynb)
-2.  **Deep Learning: House price with Tensorflow and Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20with%20Tensorflow%20and%20Keras.ipynb)
-3.  **Deep Learning: Linear Regression in Tensorflow with seismic-bumps dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
-4.  **Deep Learning: Keras Neural Network for Linear Regression with Beauty Data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/commit/3929085d0a8787635b4b2f79eb73a3a27f4b3e98)
-5.  **Deep Learning: Keras Neural Network for logistic regression with satimage_csv data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Keras%20Neural%20Network%20for%20logistic%20regression%20with%20satimage_csv%20data.ipynb)
-6.  **Deep Learning: Multilayer perceptron with abalone dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Multilayer%20perceptron%20with%20abalone%20dataset.ipynb)
-7.  **Deep Learning: Neural Network in Keras with page-blocks dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
-8.  **Deep Learning: Neural Network in Keras with phoneme dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20phoneme%20datset.ipynb)
-9. **Deep Learning: Tensorflow with Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Regression.ipynb)
-10. **Deep Learning: Tensorflow with Classification and Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Classification%20and%20Regression.ipynb)
-11. **Deep Learning: Tensorflow and Keras with classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20and%20Keras%20with%20classification.ipynb)
+1.  **TensorFlow: House price prediction using regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20prediction%20using%20regression%20.ipynb)
+2.  **TensorFlow: House price with Tensorflow and Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20with%20Tensorflow%20and%20Keras.ipynb)
+3.  **TensorFlow: Linear Regression in Tensorflow with seismic-bumps dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
+4.  **TensorFlow: Keras Neural Network for Linear Regression with Beauty Data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/commit/3929085d0a8787635b4b2f79eb73a3a27f4b3e98)
+5.  **TensorFlow: Keras Neural Network for logistic regression with satimage_csv data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Keras%20Neural%20Network%20for%20logistic%20regression%20with%20satimage_csv%20data.ipynb)
+6.  **TensorFlow: Multilayer perceptron with abalone dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Multilayer%20perceptron%20with%20abalone%20dataset.ipynb)
+7.  **TensorFlow: Neural Network in Keras with page-blocks dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
+8.  **TensorFlow: Neural Network in Keras with phoneme dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20phoneme%20datset.ipynb)
+9. **TensorFlow: Tensorflow with Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Regression.ipynb)
+10. **TensorFlow: Tensorflow with Classification and Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Classification%20and%20Regression.ipynb)
+11. **TensorFlow: Tensorflow and Keras with classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20and%20Keras%20with%20classification.ipynb)
 
 
 
