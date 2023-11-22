@@ -4,8 +4,8 @@
 
 1. **TensorFlow: Dolphins vs whale image classification using TensorFlow** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Dolphin_vs_whale_classification.ipynb)
 2. **TensorFlow: Lake water and river water image classification using TensorFlow** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Lake_water_and_river_water_image_classification_with_TensorFlow.ipynb)
-3. **CV: Animal image using Transfer Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Animal_image_using_Transfer_learning.ipynb)
-5. **CV: Rock life detection image Classification Transfer learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Rock_life_detection_Classification_Transfer_learning.ipynb)
+3. **TensorFlow: Animal image using Transfer Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Animal_image_using_Transfer_learning.ipynb)
+5. **TensorFlow: Rock life detection image Classification Transfer learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Rock_life_detection_Classification_Transfer_learning.ipynb)
 6. **TensorFlow: Multiclass image classification with famous-iconic-women dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_classification_with_famous_iconic_women.ipynb)
 7. **TensorFlow: Image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_wit_DL.ipynb)
 8. **TensorFlow: Image classification with Machine Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20Classification%20with%20Machine%20Learning.ipynb)
