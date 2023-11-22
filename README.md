@@ -134,7 +134,7 @@
 
 
  
- # Deep Learning (TensorFlow/Keras) with Python
+ # Deep Learning with TensorFlow
  
  Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
 
