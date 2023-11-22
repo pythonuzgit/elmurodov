@@ -22,7 +22,10 @@
 
 
 
+# Knowledge Graph
 
+1. **Knowlege Graph Learning with Spacy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Knowledge%20Graph/Knowledge_Graph_Learning_with_Spacy.ipynb)
+2. **Knowlege Graph with machine Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Knowledge%20Graph/Knowledge_learning_with_machine_learning.ipynb)
 
 
 
@@ -41,10 +44,7 @@
 **GPT2 generated Tweet** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/GPT2/GPT2_generated_Tweet.ipynb)
 
 
-# Knowledge Graph
 
-1. **Knowlege Graph Learning with Spacy** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Knowledge%20Graph/Knowledge_Graph_Learning_with_Spacy.ipynb)
-2. **Knowlege Graph with machine Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Knowledge%20Graph/Knowledge_learning_with_machine_learning.ipynb)
 
 
 
