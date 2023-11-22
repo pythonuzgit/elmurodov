@@ -81,11 +81,6 @@
 3. **NLP: Twetter sentiment analysis with Gensim using sklearn** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Twetter_sentiment_analysis_with_Gensim_using_sklearn.ipynb)
 
 
-
-
-
-
-
 # Natural Language Processing (NLP) with TensorFlow
 
 
@@ -132,11 +127,13 @@
 16. **Natural Language Processing: using%20user_reviews_g1** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing/NLP%20using%20user_reviews_g1.ipynb) 
  
 
+# Deep Learning with PyTorch
 
-
-
-
-
+1.  **PyTorch: USA real estate dataset with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/USA_real_estate_dataset_with_PyTorch.ipynb)  
+2.  **PyTorch: Amsterdam House Price Prediction with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Amsterdam_House_Price_Prediction_with_PyTorch.ipynb)
+3.  **PyTorch: Guadalajara rent prices prediction Tensorflow/PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Guadalajara_rent_prices_prediction_Tensorflow_PyTorch.ipynb)
+4.  **PyTorch: Nigerian House prices Tensorflow/PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Nigerian_House_prices_prediction_Tensorflow_PyTorch.ipynb)
+5. **PyTorch: Hermet data with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Hemnet_data_with_PyTorch.ipynb)
 
 
 
@@ -144,9 +141,7 @@
  
  # Deep Learning (TensorFlow/Keras) with Python
  
- 
-
-Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
+ Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
 
 1.  **Deep Learning: House price prediction using regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20prediction%20using%20regression%20.ipynb)
 2.  **Deep Learning: House price with Tensorflow and Keras** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/House%20price%20with%20Tensorflow%20and%20Keras.ipynb)
@@ -159,20 +154,6 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 9. **Deep Learning: Tensorflow with Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Regression.ipynb)
 10. **Deep Learning: Tensorflow with Classification and Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Classification%20and%20Regression.ipynb)
 11. **Deep Learning: Tensorflow and Keras with classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20and%20Keras%20with%20classification.ipynb)
-
-
-# Deep Learning with PyTorch
-
-1.  **PyTorch: USA real estate dataset with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/USA_real_estate_dataset_with_PyTorch.ipynb)  
-2.  **PyTorch: Amsterdam House Price Prediction with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Amsterdam_House_Price_Prediction_with_PyTorch.ipynb)
-3.  **PyTorch: Guadalajara rent prices prediction Tensorflow/PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Guadalajara_rent_prices_prediction_Tensorflow_PyTorch.ipynb)
-4.  **PyTorch: Nigerian House prices Tensorflow/PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Nigerian_House_prices_prediction_Tensorflow_PyTorch.ipynb)
-5. **PyTorch: Hermet data with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Hemnet_data_with_PyTorch.ipynb)
-
-
-
-
-
 
 
 
