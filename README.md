@@ -1,3 +1,37 @@
+
+# Computer Vision (CV)
+
+1. **Dolphins vs whale image classification using TensorFlow** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Dolphin_vs_whale_classification.ipynb)
+2. **Lake water and river water image classification using TensorFlow** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Lake_water_and_river_water_image_classification_with_TensorFlow.ipynb)
+3. **CV: Muffin and Chihuahua image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Muffin_vs_Chihuahua_image_classification_using_PyTorch.ipynb)
+4. **CV: Animal image using Transfer Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Animal_image_using_Transfer_learning.ipynb)
+5. **Rock_life_detection_Classification_Transfer** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Rock_life_detection_Classification_Transfer_learning.ipynb)
+
+
+# Convolutional Neural Network with PyTorch
+
+1. **PyTorch: Image Classification using PyTorch with applescablds**  [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_model_using_PyTorch_with_applescablds.ipynb)
+2. **PyTorch: Lightning for is she's gorgeous_classification with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Lightning_for_is_she's_gorgeous_classification_.ipynb)
+3. **PyTorch: Image Classification model using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_model_using_PyTorch.ipynb)
+5. **PyTorch: Image Classification using CNN in PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_CNN_in_PyTorch.ipynb)
+6. **PyTorch: Image Classification using PyTorch with paddy_pests dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_PyTorch_with_paddy_pests_dataset.ipynb)
+7. **PyTorch: Image Classification using PyTorch with Flowers dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_using_PyTorch_with_Flowers_dataset.ipynb)
+
+# Convolutional Neural Network using TensorFlow
+
+
+1. **Convolutional Neural Network: Multiclass image classification with famous-iconic-women dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_classification_with_famous_iconic_women.ipynb)
+2. **Convolutional Neural Network: Image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_wit_DL.ipynb)
+3. **Convolutional Neural Network: Image classification with Machine Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20Classification%20with%20Machine%20Learning.ipynb)
+4. **Convolutional Neural Network: Multiclass image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_classification_with_Deep_Learning.ipynb)
+5. **Convolutional Neural Network: Multiclass image classification with Deep Learning and 70-dogs** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_Classification_with_Deep_Learning_and_70_dogs_.ipynb)
+
+
+
+
+
+
+
 # Graph Neural Network
 
 **Graph neural Network in NLP with Movie Dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Graph%20Neural%20Network/Graph_Neural_Network_in_NLP_with_Movies_dataset.ipynb)
@@ -18,14 +52,6 @@
 2. **Knowlege Graph with machine Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Knowledge%20Graph/Knowledge_learning_with_machine_learning.ipynb)
 
 
-
-# Computer Vision (CV)
-
-1. **Dolphins vs whale image classification using TensorFlow** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Dolphin_vs_whale_classification.ipynb)
-2. **Lake water and river water image classification using TensorFlow** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Lake_water_and_river_water_image_classification_with_TensorFlow.ipynb)
-3. **CV: Muffin and Chihuahua image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Muffin_vs_Chihuahua_image_classification_using_PyTorch.ipynb)
-4. **CV: Animal image using Transfer Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Animal_image_using_Transfer_learning.ipynb)
-5. **Rock_life_detection_Classification_Transfer** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Rock_life_detection_Classification_Transfer_learning.ipynb)
 
 
 
@@ -55,18 +81,12 @@
 3. **NLP: Twetter sentiment analysis with Gensim using sklearn** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Twetter_sentiment_analysis_with_Gensim_using_sklearn.ipynb)
 
 
-# Deep Learning with PyTorch
-
-1.  **PyTorch: USA real estate dataset with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/USA_real_estate_dataset_with_PyTorch.ipynb)  
-2.  **PyTorch: Amsterdam House Price Prediction with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Amsterdam_House_Price_Prediction_with_PyTorch.ipynb)
-3.  **PyTorch: Guadalajara rent prices prediction Tensorflow/PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Guadalajara_rent_prices_prediction_Tensorflow_PyTorch.ipynb)
-4.  **PyTorch: Nigerian House prices Tensorflow/PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Nigerian_House_prices_prediction_Tensorflow_PyTorch.ipynb)
-5. **PyTorch: Hermet data with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Hemnet_data_with_PyTorch.ipynb)
 
 
 
 
-# Natural Language Processing (NLP) with Deep Learning (TensorFlow/Keras)
+
+# Natural Language Processing (NLP) with TensorFlow
 
 
 
@@ -116,18 +136,6 @@
 
 
 
-# Convolutional Neural Network with PyTorch
-
-
-
-
-
-1. **PyTorch: Image Classification using PyTorch with applescablds**  [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_model_using_PyTorch_with_applescablds.ipynb)
-2. **PyTorch: Lightning for is she's gorgeous_classification with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Lightning_for_is_she's_gorgeous_classification_.ipynb)
-3. **PyTorch: Image Classification model using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_model_using_PyTorch.ipynb)
-5. **PyTorch: Image Classification using CNN in PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_CNN_in_PyTorch.ipynb)
-6. **PyTorch: Image Classification using PyTorch with paddy_pests dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_PyTorch_with_paddy_pests_dataset.ipynb)
-7. **PyTorch: Image Classification using PyTorch with Flowers dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_using_PyTorch_with_Flowers_dataset.ipynb)
 
 
 
@@ -152,14 +160,17 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 10. **Deep Learning: Tensorflow with Classification and Regression** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20with%20Classification%20and%20Regression.ipynb)
 11. **Deep Learning: Tensorflow and Keras with classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20Learning/Tensorflow%20and%20Keras%20with%20classification.ipynb)
 
-# Deep Learning (TensorFlow/Keras) for Convolutional Neural Network
+
+# Deep Learning with PyTorch
+
+1.  **PyTorch: USA real estate dataset with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/USA_real_estate_dataset_with_PyTorch.ipynb)  
+2.  **PyTorch: Amsterdam House Price Prediction with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Amsterdam_House_Price_Prediction_with_PyTorch.ipynb)
+3.  **PyTorch: Guadalajara rent prices prediction Tensorflow/PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Guadalajara_rent_prices_prediction_Tensorflow_PyTorch.ipynb)
+4.  **PyTorch: Nigerian House prices Tensorflow/PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Nigerian_House_prices_prediction_Tensorflow_PyTorch.ipynb)
+5. **PyTorch: Hermet data with PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Deep%20learning%20with%20PyTorch/Hemnet_data_with_PyTorch.ipynb)
 
 
-1. **Convolutional Neural Network: Multiclass image classification with famous-iconic-women dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_classification_with_famous_iconic_women.ipynb)
-2. **Convolutional Neural Network: Image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_wit_DL.ipynb)
-3. **Convolutional Neural Network: Image classification with Machine Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20Classification%20with%20Machine%20Learning.ipynb)
-4. **Convolutional Neural Network: Multiclass image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_classification_with_Deep_Learning.ipynb)
-5. **Convolutional Neural Network: Multiclass image classification with Deep Learning and 70-dogs** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_Classification_with_Deep_Learning_and_70_dogs_.ipynb)
+
 
 
 
