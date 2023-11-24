@@ -1,7 +1,7 @@
 
 # Computer Vision (CV)
 
-1. **TensorFlow: E waste image classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/e_waste_image_dataset_ViT.ipynb)
+
 1. **TensorFlow: Dolphins vs whale image classification using TensorFlow** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Dolphin_vs_whale_classification.ipynb)
 2. **TensorFlow: Lake water and river water image classification using TensorFlow** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Lake_water_and_river_water_image_classification_with_TensorFlow.ipynb)
 3. **TensorFlow: Animal image using Transfer Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Animal_image_using_Transfer_learning.ipynb)
@@ -11,13 +11,14 @@
 8. **TensorFlow: Image classification with Machine Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20Classification%20with%20Machine%20Learning.ipynb)
 9. **TensorFlow: Multiclass image classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_classification_with_Deep_Learning.ipynb)
 10. **TensorFlow: Multiclass 70-dogs image classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Multiclass_image_Classification_with_Deep_Learning_and_70_dogs_.ipynb)
-11. **PyTorch: Image Classification using PyTorch with applescablds**  [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_model_using_PyTorch_with_applescablds.ipynb)
-12. **PyTorch: Lightning for is she's gorgeous classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Lightning_for_is_she's_gorgeous_classification_.ipynb)
-13. **PyTorch: Image Classification model using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_model_using_PyTorch.ipynb)
-14. **PyTorch: Image Classification using CNN in PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_CNN_in_PyTorch.ipynb)
-15. **PyTorch: Paddy petts image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_PyTorch_with_paddy_pests_dataset.ipynb)
-16. **PyTorch: Flowers dataset image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_using_PyTorch_with_Flowers_dataset.ipynb)
-17. **PyTorch: Muffin and Chihuahua image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Muffin_vs_Chihuahua_image_classification_using_PyTorch.ipynb)
+11. **PyTorch: E waste image classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/e_waste_image_dataset_ViT.ipynb)
+12. **PyTorch: Image Classification using PyTorch with applescablds**  [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_model_using_PyTorch_with_applescablds.ipynb)
+13. **PyTorch: Lightning for is she's gorgeous classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Lightning_for_is_she's_gorgeous_classification_.ipynb)
+14. **PyTorch: Image Classification model using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_model_using_PyTorch.ipynb)
+15. **PyTorch: Image Classification using CNN in PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_CNN_in_PyTorch.ipynb)
+16. **PyTorch: Paddy petts image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_PyTorch_with_paddy_pests_dataset.ipynb)
+17. **PyTorch: Flowers dataset image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_using_PyTorch_with_Flowers_dataset.ipynb)
+18. **PyTorch: Muffin and Chihuahua image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Muffin_vs_Chihuahua_image_classification_using_PyTorch.ipynb)
 
 
 
