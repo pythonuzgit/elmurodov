@@ -1,4 +1,10 @@
 
+# Sound Classification
+
+1. **Sound of Notes Classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Sound%20classification/Sound_of_Notes_Classification.ipynb)
+
+
+
 # Computer Vision (CV)
 
 
