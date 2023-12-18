@@ -2,6 +2,7 @@
 # Sound Classification
 
 1. **Sound of Notes Classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Sound%20classification/Sound_of_Notes_Classification.ipynb)
+2. **Guitar_chards_dataset_Sound_Classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Sound%20classification/Guitar_chards_dataset_Sound_Classification.ipynb)
 
 
 
