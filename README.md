@@ -4,7 +4,9 @@
 1. **Sound of Notes Classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Sound%20classification/Sound_of_Notes_Classification.ipynb)
 2. **Guitar-chards dataset Sound Classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Sound%20classification/Guitar_chards_dataset_Sound_Classification.ipynb)
 
+# Image Caption Generator
 
+**Image Caption Generator - Animal Dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20caption%20Generator/Image_Caption_Generator_Animal_Dataset.ipynb)
 
 # Computer Vision (CV)
 
