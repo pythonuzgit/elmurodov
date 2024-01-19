@@ -81,9 +81,9 @@
 
 
 
-1. **NLP: Training Word Embedding, Gensim and PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Training_Word_Embedding%2C_Gensim_and_PyTorch.ipynb)
-2. **NLP: Sentiment analysis physic vs chemistry vs biology with Gensim using sklearn** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Sentiment_analysis_physic_vs_chemistry_vs_biology.ipynb)
-3. **NLP: Twetter sentiment analysis with Gensim using sklearn** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Twetter_sentiment_analysis_with_Gensim_using_sklearn.ipynb)
+1. **PyTorch: Training Word Embedding, Gensim and PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Training_Word_Embedding%2C_Gensim_and_PyTorch.ipynb)
+2. **PyTorch: Sentiment analysis physic vs chemistry vs biology with Gensim using sklearn** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Sentiment_analysis_physic_vs_chemistry_vs_biology.ipynb)
+3. **PyTorch: Twetter sentiment analysis with Gensim using sklearn** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Natural%20Language%20Processing%20using%20Gensim/Twetter_sentiment_analysis_with_Gensim_using_sklearn.ipynb)
 
 
 # Natural Language Processing (NLP) with TensorFlow
