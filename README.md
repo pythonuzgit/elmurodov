@@ -42,6 +42,8 @@
 
 # Graph Neural Network
 
+**Light_GCN_Supervised_Task_using_GNN_and_PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Graph%20Neural%20Network/Light_GCN_Supervised_Task_using_GNN_and_PyTorch%2C.ipynb)
+
 **Graph neural Network in NLP with Movie Dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Graph%20Neural%20Network/Graph_Neural_Network_in_NLP_with_Movies_dataset.ipynb)
 
 # Transformers
