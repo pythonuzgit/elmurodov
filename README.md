@@ -1,6 +1,6 @@
 
-
 # Graph Neural Network
+
 
 **Graph Neural Network in Natural Language processing with spacexdataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Graph%20Neural%20Network/Graph_Neural_Network_in_Natural_Language_processing_with_spacexdataset.ipynb)
 
