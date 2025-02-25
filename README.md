@@ -2,6 +2,8 @@
 
 **Cryptocurrency Market with python** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Cryptocurrency/Cryptocurrency_Market_with_python.ipynb)
 
+**BTCusdt Crypto dataset using LSTM** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Cryptocurrency/BTCusdt_Crypto_dataset_using_LSTM.ipynb)
+
 # Graph Neural Network
 
 
